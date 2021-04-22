@@ -189,11 +189,6 @@ div{
   padding-bottom: 20px;
   
 }
-.rows1,.rows2,.rows3,.rows4{
-      display:flex;
-      flex-direction: column;
-}
-
 .right {
   width: 20%;
   list-style: none;
